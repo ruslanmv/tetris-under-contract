@@ -1,0 +1,47 @@
+{
+  "batch_id": "bat-6af5c26c6440",
+  "change_type": "add-feature",
+  "commit_ref": "mc-1e2903a575aa",
+  "goal_md": "Line clears, scoring, levels, next and hold",
+  "is_repair": false,
+  "ordinal": 3,
+  "parent_commit_ref": "mc-ed8f08a81d49",
+  "plan": {
+    "acceptance_commands": [
+      "test -f frontend/index.html",
+      "grep -q '<canvas' frontend/index.html"
+    ],
+    "allowed_files": [
+      "frontend/index.html"
+    ],
+    "batch_id": "bat-6af5c26c6440",
+    "blueprint_id": "bp-f9d03cc0418e",
+    "change_summary": [
+      "Apply requested changes",
+      "Update prompt pack"
+    ],
+    "change_type": "add-feature",
+    "goal_md": "Line clears, scoring, levels, next and hold",
+    "is_repair": false,
+    "ordinal": 3,
+    "parent_commit_ref": "mc-ed8f08a81d49",
+    "schema_version": "matrix.builder.batch-plan/v1",
+    "tasks": [
+      {
+        "acceptance_criteria": [
+          "Change implemented",
+          "Tests pass",
+          "No Matrix control files changed"
+        ],
+        "allowed_files": [
+          "frontend/index.html"
+        ],
+        "task_id": "TASK-002",
+        "title": "Line clears, scoring, levels, next and hold"
+      }
+    ],
+    "title": "Line clears, scoring, levels, next and hold"
+  },
+  "status": "committed",
+  "title": "Line clears, scoring, levels, next and hold"
+}

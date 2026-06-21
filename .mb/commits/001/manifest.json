@@ -1,0 +1,12 @@
+{
+  "batch_ref": "bat-5aa1ae2fbc8b",
+  "changed": [
+    "frontend/index.html"
+  ],
+  "commit_no": 1,
+  "commit_ref": "mc-e5da1ec40b74",
+  "parent_commit_ref": null,
+  "summary": "Foundation: board, 7 colored tetrominoes, render loop, spawn, gravity, lock",
+  "tree_hash": "sha256:959f9cada636604db33bc1ba82fed347457dcb032c37ac195b4343c5f0ea6e72",
+  "validation_status": "approved"
+}

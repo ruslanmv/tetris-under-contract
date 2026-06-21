@@ -1,0 +1,13 @@
+{
+  "blueprint_id": "bp-f9d03cc0418e",
+  "current_commit_ref": "mc-c186f714b6a1",
+  "idea": "A polished neon Tetris game playable in the browser, single self-contained HTML file, runs on GitHub Pages",
+  "last_failing_batch": null,
+  "next_batch_ordinal": 6,
+  "next_commit_no": 6,
+  "project_id": "bp-f9d03cc0418e",
+  "quality": "standard",
+  "slug": "a-polished-neon-tetris-game-playable-in-the-browser-single-self-containe",
+  "title": "Tetris Under Contract",
+  "version_label": "v1.0.0"
+}

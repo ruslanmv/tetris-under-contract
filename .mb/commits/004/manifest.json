@@ -1,0 +1,12 @@
+{
+  "batch_ref": "bat-0dc9ac2d1857",
+  "changed": [
+    "frontend/index.html"
+  ],
+  "commit_no": 4,
+  "commit_ref": "mc-11c9835f1a93",
+  "parent_commit_ref": "mc-1e2903a575aa",
+  "summary": "Juice: ghost, particles, sound, mobile, responsive",
+  "tree_hash": "sha256:959f9cada636604db33bc1ba82fed347457dcb032c37ac195b4343c5f0ea6e72",
+  "validation_status": "approved"
+}

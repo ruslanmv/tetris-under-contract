@@ -1,0 +1,12 @@
+{
+  "batch_ref": "bat-8598d23172b4",
+  "changed": [
+    "frontend/index.html"
+  ],
+  "commit_no": 5,
+  "commit_ref": "mc-c186f714b6a1",
+  "parent_commit_ref": "mc-11c9835f1a93",
+  "summary": "Game states, high score, accessibility, polish",
+  "tree_hash": "sha256:959f9cada636604db33bc1ba82fed347457dcb032c37ac195b4343c5f0ea6e72",
+  "validation_status": "approved"
+}

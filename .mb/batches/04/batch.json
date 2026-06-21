@@ -1,0 +1,47 @@
+{
+  "batch_id": "bat-0dc9ac2d1857",
+  "change_type": "add-feature",
+  "commit_ref": "mc-11c9835f1a93",
+  "goal_md": "Juice: ghost, particles, sound, mobile, responsive",
+  "is_repair": false,
+  "ordinal": 4,
+  "parent_commit_ref": "mc-1e2903a575aa",
+  "plan": {
+    "acceptance_commands": [
+      "test -f frontend/index.html",
+      "grep -q '<canvas' frontend/index.html"
+    ],
+    "allowed_files": [
+      "frontend/index.html"
+    ],
+    "batch_id": "bat-0dc9ac2d1857",
+    "blueprint_id": "bp-f9d03cc0418e",
+    "change_summary": [
+      "Apply requested changes",
+      "Update prompt pack"
+    ],
+    "change_type": "add-feature",
+    "goal_md": "Juice: ghost, particles, sound, mobile, responsive",
+    "is_repair": false,
+    "ordinal": 4,
+    "parent_commit_ref": "mc-1e2903a575aa",
+    "schema_version": "matrix.builder.batch-plan/v1",
+    "tasks": [
+      {
+        "acceptance_criteria": [
+          "Change implemented",
+          "Tests pass",
+          "No Matrix control files changed"
+        ],
+        "allowed_files": [
+          "frontend/index.html"
+        ],
+        "task_id": "TASK-002",
+        "title": "Juice: ghost, particles, sound, mobile, responsive"
+      }
+    ],
+    "title": "Juice: ghost, particles, sound, mobile, responsive"
+  },
+  "status": "committed",
+  "title": "Juice: ghost, particles, sound, mobile, responsive"
+}

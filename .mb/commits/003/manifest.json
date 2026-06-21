@@ -1,0 +1,12 @@
+{
+  "batch_ref": "bat-6af5c26c6440",
+  "changed": [
+    "frontend/index.html"
+  ],
+  "commit_no": 3,
+  "commit_ref": "mc-1e2903a575aa",
+  "parent_commit_ref": "mc-ed8f08a81d49",
+  "summary": "Line clears, scoring, levels, next and hold",
+  "tree_hash": "sha256:959f9cada636604db33bc1ba82fed347457dcb032c37ac195b4343c5f0ea6e72",
+  "validation_status": "approved"
+}
